@@ -68,7 +68,7 @@ button.btn-custom {
 }
 
 .back-img {
-    background-image: url("/bootstrap/gg asset/image17.png");
+    background-image: url("../gg asset/image17.png");
     background-size: cover;
     background-position: center;
 }
